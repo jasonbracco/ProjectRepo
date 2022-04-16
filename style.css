@@ -3,10 +3,22 @@ body {
     font-family: 'Courier New', Courier, monospace;
     
   }
-body h1{
+h1{
     background-color: aqua;  
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+    padding: 10px;
+    padding-left: 50px;
 }
 
-body h1 p{
-    background-color: pink;
+h4{
+    font-style: italic;
+    text-align: center;
+}
+p {
+    background-color:pink;
+    text-align: center;
+    margin-left: 20px;
+    margin-right: 20px;
 }
